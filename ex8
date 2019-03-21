@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<busRoute>
+<name>San Bernardo</name>
+<schedule stop="1">10:30</schedule>
+<name>Prado San Sebastian</name>
+<schedule stop="2">10:40</schedule>
+<name>Virgen de Lujan</name>
+<schedule stop="3">10:50</schedule>
+<name>Lopez de Gomara</name>
+<schedule stop="4">11:05</schedule>
+</busRoute>

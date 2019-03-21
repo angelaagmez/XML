@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cookBook>
+<recipe>
+<ingredients>Tomato,onion,oil and pepper</ingredients>
+<process>Cut the vegetables and mix all the ingredients</process>
+</recipe>
+<recipe>
+<ingredients>Eggs and salt</ingredients>
+<process>Beat the eggs and add the salt, then pour it to the frying pan</process>
+</recipe>
+</cookBook>
